@@ -1,1 +1,1 @@
-LIVELINK:   https://gajananchapkanade.github.io/portfolio_Gajanan1/
+LIVELINK:   https://aj961.github.io/Ajayingle/
